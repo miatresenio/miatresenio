@@ -1,6 +1,6 @@
 # Hey there! 👋 
 
-### Mobile Specialist 
+### About Me
 
 I bridge the gap between design and functionality by creating intuitive interfaces and robust mobile solutions. I specialize in building high-performance cross-platform and native mobile applications with a focus on clean UI and efficient performance.
 
