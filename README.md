@@ -6,7 +6,7 @@ I bridge the gap between design and functionality by creating intuitive interfac
 
 ---
 
-### 🛠 Skills & Technologies
+###  Skills & Technologies
 
 **Programming & Frameworks**
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -22,8 +22,12 @@ I bridge the gap between design and functionality by creating intuitive interfac
 **Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,kotlin,swift,ts,js,firebase,supabase,figma" />
+</p>
 ---
 
-### 🤝 Connect with me
+###  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mia-myca-tresenio-79b600352/)
 [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.facebook.com/share/1DQ2efnqF1/)
