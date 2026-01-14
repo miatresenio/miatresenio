@@ -10,6 +10,7 @@ I bridge the gap between design and functionality by creating intuitive interfac
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,kotlin,swift,ts,js,html,css,firebase,supabase,figma" />
 </p>
+
 ---
 
 ###  Connect with me
