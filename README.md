@@ -24,12 +24,6 @@ I bridge the gap between design and functionality by creating intuitive interfac
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=dark)
-
----
-
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://www.linkedin.com/in/mia-myca-tresenio-79b600352/)
+[![Portfolio](https://www.facebook.com/share/1DQ2efnqF1/)
